@@ -5,6 +5,8 @@ module.exports = {
     extend: {
       colors: {
         cinza: '#18181B',
+        grayBorder: '#3f3f46',
+        roxo: '#9333ea',
       },
     },
   },
